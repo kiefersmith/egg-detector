@@ -1,0 +1,7 @@
+# Runtime dependencies
+opencv-python
+numpy
+ultralytics
+
+# Annotation only (not needed to run detection) — install separately if labeling:
+#   pip install label-studio

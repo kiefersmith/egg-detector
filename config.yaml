@@ -1,0 +1,6 @@
+path: ./dataset
+train: images/train
+val: images/val
+
+nc: 4
+names: ["Airplane", "Car", "chicken", "egg"]
