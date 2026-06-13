@@ -10,6 +10,8 @@ configured.
 Raspberry Pi (camera)  ──scp──▶  detect.py  ──YOLO──▶  snapshots/annotated_*.jpg
 ```
 
+![Example detection: three eggs boxed and labeled with confidence scores](docs/example-detection.jpg)
+
 ## Setup
 
 ```bash
